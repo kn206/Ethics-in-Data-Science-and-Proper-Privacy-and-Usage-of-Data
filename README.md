@@ -1,2 +1,3 @@
 # Ethics-in-Data-Science-and-Proper-Privacy-and-Usage-of-Data
 Reports and project on Ethics in Data Science and Proper Privacy and Usage of Data
+This repository unifies a collection of projects that actively promote the infusion of ethical principles into data science, specifically emphasizing privacy and responsible data practices. The scope of these endeavors is wide-ranging: advocating for transparent methods in data collection; deploying state-of-the-art techniques to preserve privacy and guaranteeing legal adherence with laws protecting data, all while nurturing an environment conducive to ethical awareness through educational outreach and engagement with stakeholders. 
